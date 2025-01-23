@@ -16,7 +16,9 @@ Physical Review D
 * Yoshinari Hayato (Ex-officio)
 
 # TeX project at Overleaf
-[https://www.overleaf.com/read/hnsbhydvhkmp#a2efde](https://www.overleaf.com/read/hnsbhydvhkmp#a2efde)
+View-only link: [https://www.overleaf.com/read/hnsbhydvhkmp#a2efde](https://www.overleaf.com/read/hnsbhydvhkmp#a2efde)
+
+To comment, please use the link sent via email.
 
 # Shared comments for draft v1.0:
 [https://docs.google.com/document/d/1SIMDGUAPg2iPZ2QwrK49e26FOF9R_9GUERNdgRrsh5s/edit?usp=sharing](https://docs.google.com/document/d/1SIMDGUAPg2iPZ2QwrK49e26FOF9R_9GUERNdgRrsh5s/edit?usp=sharing)
