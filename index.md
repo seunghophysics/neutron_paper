@@ -7,6 +7,7 @@ title: Neutrons from atmospherics 2024
 
 # Current paper draft: v1.0
 [n_paper_draft.pdf](n_paper_draft_v1.0.pdf)
+[Summary slides](n_paper_slides_v1.0.pdf)
 
 # Previous paper drafts
 [n_paper_draft_v1.0.pdf](n_paper_draft_v1.0.pdf)
