@@ -2,6 +2,19 @@
 title: Neutrons from atmospherics 2024
 ---
 
+# Proposed paper title
+Measurement of neutron production in atmospheric neutrino interactions at Super-Kamiokande
+
+# Target journal
+Physical Review D
+
+# Paper committee
+* Seungho Han (Analyzer)
+* Kimihiro Okumura (Advisor)
+* Benda Xu (LOWE)
+* Ryosuke Akutsu (ATMPD)
+* Yoshinari Hayato (Ex-officio)
+
 # TeX project at Overleaf
 [https://www.overleaf.com/read/hnsbhydvhkmp#a2efde](https://www.overleaf.com/read/hnsbhydvhkmp#a2efde)
 
