@@ -32,3 +32,6 @@ Feb 5, 2025: [Meeting log](log_feb5.md)
 
 # Previous paper drafts
 [n_paper_draft_v1.0.pdf](n_paper_draft_v1.0.pdf)
+
+# Multi-ring INCL vs. Bertini
+[Figures](bert_vs_incl.pdf)
