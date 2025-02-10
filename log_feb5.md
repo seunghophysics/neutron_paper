@@ -25,8 +25,7 @@ February 5, 2025
 
 This should provide some coverage of the inelastic interaction cross-section uncertainty, but I will further investigate which inelastic cross-sections are used in the SI models and determine how to assign uncertainty to them.
 
-### Geant4 Precompound Not Used by GENIE INCL but by Geant4 INCL
-#### Why Does Geant4 Precompound Predict Fewer Neutron Ejections?
+### Why Does Geant4 Precompound Predict Fewer Neutron Ejections?
 **RA**: What do you mean by "data-driven" in the context of Geant4 Precompound?
 
 **SH**: The Geant4 Precompound model claims to use a nucleon absorption cross-section parameterization fitted to more recent experimental data, which was unavailable when Bertini's native de-excitation model (Dostrovsky, 1958) was developed.
