@@ -23,14 +23,17 @@ To comment, please use the link sent via email.
 # Shared comments for draft v1.0:
 [https://docs.google.com/document/d/1SIMDGUAPg2iPZ2QwrK49e26FOF9R_9GUERNdgRrsh5s/edit?usp=sharing](https://docs.google.com/document/d/1SIMDGUAPg2iPZ2QwrK49e26FOF9R_9GUERNdgRrsh5s/edit?usp=sharing)
 
-# Current paper draft: v1.0
-[n_paper_draft.pdf](n_paper_draft_v1.0.pdf)
+# Current paper draft: v1.1
+[n_paper_draft.pdf](n_paper_draft_v1.1.pdf)
+(Figures to be updated with minor fix)
 
 [Summary slides](n_paper_slides_v1.0.pdf)
 
 Feb 5, 2025: [Meeting log](log_feb5.md)
 
 # Previous paper drafts
+[n_paper_draft_v1.1.pdf](n_paper_draft_v1.1.pdf)
+
 [n_paper_draft_v1.0.pdf](n_paper_draft_v1.0.pdf)
 
 # Multi-ring INCL vs. Bertini
