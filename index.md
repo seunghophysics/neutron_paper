@@ -38,3 +38,4 @@ Feb 5, 2025: [Meeting log](log_feb5.md)
 
 # Multi-ring INCL vs. Bertini
 [Figures](bert_vs_incl.pdf)
+[Excitation energy](bert_vs_incl_2.pdf)
