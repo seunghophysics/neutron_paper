@@ -23,7 +23,9 @@ To comment, please use the link sent via email.
 # Shared comments for draft v1.0:
 [https://docs.google.com/document/d/1SIMDGUAPg2iPZ2QwrK49e26FOF9R_9GUERNdgRrsh5s/edit?usp=sharing](https://docs.google.com/document/d/1SIMDGUAPg2iPZ2QwrK49e26FOF9R_9GUERNdgRrsh5s/edit?usp=sharing)
 
-# Current paper draft: v1.1
+[PDF](comments_committee.pdf)
+
+# Current paper draft: v1.2
 [n_paper_draft.pdf](n_paper_draft_v1.2.pdf)
 
 [Summary slides for major update in v1.1 -> v1.2](n_paper_slides_v1.2.pdf)
