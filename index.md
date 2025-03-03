@@ -25,8 +25,8 @@ To comment, please use the link sent via email.
 
 [PDF](comments_committee.pdf)
 
-# Current paper draft: v1.2
-[n_paper_draft.pdf](n_paper_draft_v1.2.pdf)
+# Current paper draft: v1.3
+[n_paper_draft.pdf](n_paper_draft_v1.3.pdf)
 
 [Summary slides for major update in v1.1 -> v1.2](n_paper_slides_v1.2.pdf)
 
@@ -35,6 +35,8 @@ To comment, please use the link sent via email.
 Feb 5, 2025: [Meeting log](log_feb5.md)
 
 # Previous paper drafts
+[n_paper_draft_v1.3.pdf](n_paper_draft_v1.3.pdf)
+
 [n_paper_draft_v1.2.pdf](n_paper_draft_v1.2.pdf)
 
 [n_paper_draft_v1.1.pdf](n_paper_draft_v1.1.pdf)
