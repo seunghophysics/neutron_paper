@@ -47,3 +47,5 @@ Feb 5, 2025: [Meeting log](log_feb5.md)
 [Figures](bert_vs_incl.pdf)
 
 [Excitation energy](bert_vs_incl_2.pdf)
+
+[Multi-ring slope](mr_modelcomp_ylin.pdf)
