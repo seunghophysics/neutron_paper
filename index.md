@@ -30,8 +30,8 @@ To comment, please use the link sent via email.
 
 [PDF](comments_atmpd.pdf)
 
-# Current paper draft: v1.3
-[n_paper_draft.pdf](n_paper_draft_v1.3.pdf)
+# Current paper draft: v1.4
+[n_paper_draft.pdf](n_paper_draft_v1.4.pdf)
 
 [Summary slides for major update in v1.1 -> v1.2](n_paper_slides_v1.2.pdf)
 
