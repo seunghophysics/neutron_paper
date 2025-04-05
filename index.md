@@ -25,6 +25,11 @@ To comment, please use the link sent via email.
 
 [PDF](comments_committee.pdf)
 
+# ATMPD comments for draft v1.3:
+[https://docs.google.com/document/d/1wKFjfcwiF2LEI2FBbgBCucdyCrlP2bGiATsNhtY3kfk/edit?tab=t.0](https://docs.google.com/document/d/1wKFjfcwiF2LEI2FBbgBCucdyCrlP2bGiATsNhtY3kfk/edit?tab=t.0)
+
+[PDF](comments_atmpd.pdf)
+
 # Current paper draft: v1.3
 [n_paper_draft.pdf](n_paper_draft_v1.3.pdf)
 
@@ -35,6 +40,8 @@ To comment, please use the link sent via email.
 Feb 5, 2025: [Meeting log](log_feb5.md)
 
 # Previous paper drafts
+[n_paper_draft_v1.4.pdf](n_paper_draft_v1.4.pdf)
+
 [n_paper_draft_v1.3.pdf](n_paper_draft_v1.3.pdf)
 
 [n_paper_draft_v1.2.pdf](n_paper_draft_v1.2.pdf)
