@@ -30,8 +30,13 @@ To comment, please use the link sent via email.
 
 [PDF](comments_atmpd.pdf)
 
-# Current paper draft: v1.4
-[n_paper_draft.pdf](n_paper_draft_v1.4.pdf)
+# SK comments for draft v1.4:
+[https://docs.google.com/document/d/1wKFjfcwiF2LEI2FBbgBCucdyCrlP2bGiATsNhtY3kfk/edit?tab=t.0](https://docs.google.com/document/d/1wKFjfcwiF2LEI2FBbgBCucdyCrlP2bGiATsNhtY3kfk/edit?tab=t.0)
+
+[PDF](comments_sk.pdf)
+
+# Current paper draft: v1.5
+[n_paper_draft.pdf](n_paper_draft_v1.5.pdf)
 
 [Summary slides for major update in v1.1 -> v1.2](n_paper_slides_v1.2.pdf)
 
@@ -40,6 +45,8 @@ To comment, please use the link sent via email.
 Feb 5, 2025: [Meeting log](log_feb5.md)
 
 # Previous paper drafts
+[n_paper_draft_v1.5.pdf](n_paper_draft_v1.5.pdf)
+
 [n_paper_draft_v1.4.pdf](n_paper_draft_v1.4.pdf)
 
 [n_paper_draft_v1.3.pdf](n_paper_draft_v1.3.pdf)
