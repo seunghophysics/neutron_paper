@@ -48,7 +48,7 @@ To comment, please use the link sent via email.
 Feb 5, 2025: [Meeting log](log_feb5.md)
 
 # Data release draft
-[sk_neutron_data.tar.gz](sk_neutron_data.tar.gz)
+[sk_neutron_data.tar.gz](protected.html)
 
 # Previous paper drafts
 [n_paper_draft_v1.5.pdf](n_paper_draft_v1.5.pdf)

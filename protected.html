@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Password Protected Download</title>
+    <script>
+        function verifyPassword() {
+            const password = prompt("Enter the password:");
+            if (password === "superk") {
+                window.location.href = "sk_neutron_data.tar.gz";
+            } else {
+                alert("Incorrect password.");
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="verifyPassword()">Download File</button>
+</body>
+</html>
+
