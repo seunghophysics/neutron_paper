@@ -15,6 +15,9 @@ Physical Review D
 * Ryosuke Akutsu (ATMPD)
 * Yoshinari Hayato (Ex-officio)
 
+# Now on arXiv:
+[https://arxiv.org/abs/2505.04409](https://arxiv.org/abs/2505.04409)
+
 # TeX project at Overleaf
 View-only link: [https://www.overleaf.com/read/hnsbhydvhkmp#a2efde](https://www.overleaf.com/read/hnsbhydvhkmp#a2efde)
 
