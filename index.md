@@ -38,6 +38,9 @@ To comment, please use the link sent via email.
 
 [PDF](comments_sk.pdf)
 
+# PRD comments:
+[PDF](response_prd.pdf)
+
 # Current paper draft: v1.5
 [n_paper_draft.pdf](n_paper_draft_v1.5.pdf)
 
